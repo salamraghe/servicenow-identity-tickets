@@ -22,7 +22,7 @@ His own words (lightly cleaned up):
 
 > I made a simulation of how I'll be answering tickets if I was on the job, through ServiceNow and Entra. I made examples for joiner, mover and leaver. I made the ticket for the joiner, answered it, updated it on what I was doing, and updated it when I fixed the issue. I did the same thing for the mover, when somebody is moving roles or might need access for something at a specific time: I made the ticket, put it in progress, updated it, did the work in Entra, updated the work notes, and resolved it in ServiceNow. And I did the same if someone was leaving: I made the ticket, updated the work notes, removed them in Entra and disabled their account, then went back into ServiceNow, updated the work notes on what I did, and resolved it.
 
-*Interview line (coach-written at his request, from his one-page IAM Labs doc):*
+*Interview line:*
 
 > "I built a ServiceNow developer instance and simulated how I'd work identity tickets on the job. I made a joiner, a mover and a leaver ticket. For each one I set it In Progress, did the work in Entra ID (created the user and group access, moved someone's access, disabled the leaver's account), logged what I did in work notes, and resolved it with resolution notes. The activity log gives a full paper trail."
 
