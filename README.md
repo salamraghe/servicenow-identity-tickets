@@ -18,8 +18,6 @@ On a help desk or IAM team, access changes start as tickets: someone new starts,
 
 ## What I learned
 
-His own words (lightly cleaned up):
-
 > I made a simulation of how I'll be answering tickets if I was on the job, through ServiceNow and Entra. I made examples for joiner, mover and leaver. I made the ticket for the joiner, answered it, updated it on what I was doing, and updated it when I fixed the issue. I did the same thing for the mover, when somebody is moving roles or might need access for something at a specific time: I made the ticket, put it in progress, updated it, did the work in Entra, updated the work notes, and resolved it in ServiceNow. And I did the same if someone was leaving: I made the ticket, updated the work notes, removed them in Entra and disabled their account, then went back into ServiceNow, updated the work notes on what I did, and resolved it.
 
 ## Key screenshots
